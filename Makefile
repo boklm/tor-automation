@@ -1,4 +1,4 @@
-SOURCES=tor-automation-review.asc
+SOURCES=tor-automation-review.asc tor-automation-proposals.asc
 
 .PHONY: all pdf html clean
 
